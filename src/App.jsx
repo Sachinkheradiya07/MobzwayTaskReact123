@@ -3,7 +3,6 @@ import RecordsList from "./Components/RecordsList";
 import TwoWayBindingExample from "./Components/TwoWayBindingExample";
 import Simple from "./Components/Simple";
 import ShowHide from "./Components/ShowHide";
-import EnableDisable from "./Components/EnableDisable";
 import AddChinldComponent from "./Components/AddChildComponent";
 import Sum from "./Components/Sum";
 import Counter from "./Components/Counter";
@@ -17,8 +16,6 @@ function App() {
       <RecordsList />
       <hr />
       <ShowHide />
-      <hr />
-      <EnableDisable />
       <hr />
       <TwoWayBindingExample />
       <hr />
